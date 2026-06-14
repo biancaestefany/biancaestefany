@@ -3,12 +3,10 @@
 - 🔭 Hoje trabalho como Jovem Aprendiz Administrativo
 - 🌱 Estudando Engenharia de Software na Unicesumar
 - 😄 Pronouns: Ela/Dela
- 
- <div>
-  <a href="https://github.com/biancaestefany">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biancaestefany&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biancaestefany&hide=contribs,prs&theme=tokyonight)
-</div>
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biancaestefany&hide=contribs,prs&theme=dracula)
+
  
 <div> 
   <a href="https://instagram.com/_me.bianca" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
