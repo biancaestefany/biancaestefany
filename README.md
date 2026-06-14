@@ -4,7 +4,7 @@
 - 🌱 Estudando Engenharia de Software na Unicesumar
 - 😄 Pronouns: Ela/Dela
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biancaestefany&show_icons=true&theme=dracula)
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biancaestefany&hide=contribs,prs&theme=dracula)
 
  
