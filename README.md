@@ -21,7 +21,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-<img align="left" alt="Coding" width="100" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyYjZsdW52aGJ1OGwwMDB1YnNkbGtpZ3Jva2xyeDRxbXpwdm40aThlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2Sq72gPlwox4o2n6/giphy.gif">
+<img align="left" alt="Coding" width="50" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyYjZsdW52aGJ1OGwwMDB1YnNkbGtpZ3Jva2xyeDRxbXpwdm40aThlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2Sq72gPlwox4o2n6/giphy.gif">
 
 <div> 
   <a href="https://instagram.com/_me.bianca" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
