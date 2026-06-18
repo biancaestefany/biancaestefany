@@ -14,6 +14,13 @@
 </picture>
 <br><br>
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
 <img align="left" alt="Coding" width="100" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyYjZsdW52aGJ1OGwwMDB1YnNkbGtpZ3Jva2xyeDRxbXpwdm40aThlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2Sq72gPlwox4o2n6/giphy.gif">
 
 <div> 
