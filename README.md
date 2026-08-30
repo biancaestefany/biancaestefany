@@ -7,6 +7,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=biancaestefany&show_icons=true&theme=dracula)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=biancaestefany&hide=contribs,prs&theme=dracula)
 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biancaestefany/biancaestefany/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biancaestefany/biancaestefany/output/github-contribution-grid-snake.svg">
